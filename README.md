@@ -1,4 +1,4 @@
-#Test based on Truncated Statistic. 
+# Test based on Truncated Statistic. 
 
 tpc is the pre-compiled executable binary for Linux.
 
