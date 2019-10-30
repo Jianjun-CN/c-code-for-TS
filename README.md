@@ -5,7 +5,7 @@ tpc is the pre-compiled executable binary for Linux.
 ### Current Version
 * v1.0
 
-### The quick start commands are
+### Some quick start commands
 
 `tpc -h` to get the more help information.
 
@@ -20,3 +20,6 @@ We only consider one trait in our analysis, and thus you can put 1 into the `tra
 The value 1 behind `-n` means that we only consider one trait.
 
 The `p_value.txt` behind `-o` denotes the output txt, which contains two columns, i.e., gene names and final p-values.
+
+### Qustions
+Any questions are welcome to this email xuexia.wang@unt.edu.
